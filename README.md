@@ -152,7 +152,7 @@ Root User : /root/bughunter/
 - ~/bughunter/disc/ : Tools for Discovery
 - ~/bughunter/expt/ : Tools for Exploitation
 - ~/bughunter/rept/ : Tools for Reporting
-- ~/bughunter/sage/ : Tools by Mr. SAGE
+- ~/bughunter/sage/ : Tools by Mr. Vean
 
 View Tool's README.md File for Installation Instruction and How To Use Guide.
 
@@ -166,7 +166,7 @@ TBHM3, GitHub, Bug Bounty Forum, Google and Few Bug Hunting Articles.
 
 That's it... If You Like This Repo. Please Share This With Your Friends..
 
-& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/veanyxz), [Instagram](https://www.instagram.com/just_b0yz), [Github](https://www.github.com/Veanyxz
+& Don't Forget To Follow Me At [Twitter](https://www.twitter.com/veanyxz), [Instagram](https://www.instagram.com/just_b0yz), [Github](https://www.github.com/Veanyxz)
 
 
 ***Thankyou.***
